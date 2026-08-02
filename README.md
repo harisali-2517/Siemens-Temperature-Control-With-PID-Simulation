@@ -8,6 +8,5 @@ A thermal control loop and signal processing architecture programmed on a **Siem
 * **Live Signal Filtering:** Built a 1-second sampling loop using positive edge detection and a 5-sample FIFO shift-register array (`MOVE` blocks) to calculate a rolling average for sensor noise smoothing.
 
 ### 📂 Repository Files
-* **Temperature_Control_Logic.pdf:** PDF export of the Main OB1 ladder logic.
-* **Network_Screenshots:** Visual captures of the analog scaling and PWM ladder networks.
+* **Ladder_Logic.pdf:** PDF export of the Main OB1 ladder logic.
 * **Temperature_Control.zap15:** Raw TIA Portal V15 archive file.
