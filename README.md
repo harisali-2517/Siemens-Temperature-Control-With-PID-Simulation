@@ -9,4 +9,4 @@ A thermal control loop and signal processing architecture programmed on a **Siem
 
 ### 📂 Repository Files
 * **Ladder_Logic.pdf:** PDF export of the Main OB1 ladder logic.
-* **Temperature_Control.zap15:** Raw TIA Portal V15 archive file.
+* **Temperature_Control_Archive.zap15:** Raw TIA Portal V15 archive file.
