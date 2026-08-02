@@ -1,4 +1,4 @@
-# Closed-Loop Temperature Control & Signal Processing
+# Temperature Control with PID Simulation
 
 A thermal control loop and signal processing architecture programmed on a **Siemens S7-1200 (CPU 1215C)** using **TIA Portal**. 
 
